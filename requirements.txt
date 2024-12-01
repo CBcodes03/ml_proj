@@ -1,0 +1,3 @@
+streamlit==1.25.0  # Ensure compatibility with the latest Streamlit version
+pandas==2.1.2  # For handling and displaying dataframes
+sqlite3  # No version needed as it's part of Python's standard library
